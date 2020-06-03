@@ -29,6 +29,7 @@ public class JpaConfig {
 
     @Autowired
     private Environment env;
+
     @Bean
     public LocalContainerEntityManagerFactoryBean entityManagerFactory() {
         final LocalContainerEntityManagerFactoryBean entityManagerFactoryBean = new LocalContainerEntityManagerFactoryBean();

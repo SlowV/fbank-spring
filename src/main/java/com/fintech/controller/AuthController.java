@@ -40,8 +40,13 @@ public class AuthController {
     }
 
     @PostMapping("/register")
-    public String postRegister(@ModelAttribute("account") Account account) {
-        authService.doRegister(account);
+    public String postRegister(@ModelAttribute("account") Account account, final RedirectAttributes redirectAttributes) {
+        Account result = authService.doRegister(account);
+        if (result != null) {
+            redirectAttributes.addFlashAttribute("msgRegisterSuccess", messageSource.getMessage("Đăng.ký.thành.công.với.tài.khoản:", null, Locale.getDefault()) + account.getUsername());
+        } else {
+            redirectAttributes.addFlashAttribute("msgRegisterFailed", messageSource.getMessage("Đăng.ký.thất.bại.vui.lòng.thử.lại!", null, Locale.getDefault()));
+        }
         return "redirect:/";
     }
 }

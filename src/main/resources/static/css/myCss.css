@@ -1,0 +1,30 @@
+.box_change_language {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    height: 40px;
+    background: #1c1c1c;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-sizing: content-box;
+    text-align: center;
+    transform: translateY(-50px);
+    padding: 10px;
+}
+.box_change_language ul {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.box_change_language ul li {
+    list-style: none;
+}
+.box_change_language ul li a {
+    font-size: 13px;
+    transition: .3s;
+}
+
+.box_change_language ul li a:hover {
+    color: #9c232f;
+}

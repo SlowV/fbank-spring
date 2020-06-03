@@ -1,18 +1,16 @@
 package com.fintech.domain;
 
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.Setter;
 import org.hibernate.annotations.CreationTimestamp;
-import org.springframework.format.annotation.DateTimeFormat;
 
 import javax.persistence.*;
 import java.io.Serializable;
 import java.time.Instant;
+import java.util.Objects;
 
 @Setter
 @Getter
-@NoArgsConstructor
 @Entity(name = "Account")
 @Table(name = "account")
 public class Account implements Serializable {
@@ -31,7 +29,6 @@ public class Account implements Serializable {
 
     @Column(name = "time_block", nullable = false)
     @CreationTimestamp
-    @DateTimeFormat(pattern = "dd-MM-yyyy hh:mm:ss")
     private Instant blockTime;
 
     @Column(name = "status", columnDefinition = "int default 1", nullable = false)
@@ -42,6 +39,15 @@ public class Account implements Serializable {
 
     public boolean matchPassword(String password) {
         return this.password.equals(password);
+    }
+
+    public void setAccountInformation(AccountInformation accountInformation) {
+        this.accountInformation = accountInformation;
+        this.accountInformation.setAccount(this);
+    }
+
+    public Account() {
+        this.status = Status.ACTIVE.getInt();
     }
 
     public enum Status {
@@ -125,7 +131,7 @@ public class Account implements Serializable {
                 account.setLoginFailed(loginFailed);
             }
             account.setBlockTime(blockTime);
-            account.setStatus(status);
+            account.setStatus(Objects.requireNonNullElseGet(this.status, Status.ACTIVE::getInt));
             account.setAccountInformation(accountInformation);
             if (accountInformation != null) {
                 accountInformation.setAccount(account);

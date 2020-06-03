@@ -1,5 +1,6 @@
 package com.fintech.domain;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -18,6 +19,7 @@ public class AccountInformation implements Serializable {
     @OneToOne
     @JoinColumn(name = "account_id")
     @Cascade({org.hibernate.annotations.CascadeType.SAVE_UPDATE})
+    @JsonIgnore
     private Account account;
 
     @Column(name = "full_name", nullable = false)
@@ -34,21 +36,27 @@ public class AccountInformation implements Serializable {
     private String introduce;
 
     public enum Gender {
-        MALE(1), FEMALE(2), OTHER(0);
+        MALE(1, "MALE"), FEMALE(2, "FEMALE"), OTHER(0, "FEMALE");
         private int code;
-
-        Gender(int code) {
+        private String nameString;
+        Gender(int code, String nameString) {
             this.code = code;
+            this.nameString = nameString;
         }
 
         public int getCode() {
             return code;
         }
+
         public static Gender getStatusByValue(int value) {
             for (Gender gender : Gender.values()) {
                 if (gender.code == value) return gender;
             }
             throw new IllegalArgumentException("Giới tính không tồn tại.");
+        }
+
+        public String getNameString() {
+            return nameString;
         }
     }
 

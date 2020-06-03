@@ -26,6 +26,9 @@ public class WebMvcConfig implements WebMvcConfigurer {
     @Autowired
     private ApplicationContext applicationContext;
 
+    private static final String dateFormat = "yyyy-MM-dd";
+    private static final String dateTimeFormat = "yyyy-MM-dd HH:mm:ss";
+
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
         registry
@@ -98,4 +101,5 @@ public class WebMvcConfig implements WebMvcConfigurer {
     public void addInterceptors(InterceptorRegistry registry) {
         registry.addInterceptor(getLocaleInterceptor());
     }
+
 }
