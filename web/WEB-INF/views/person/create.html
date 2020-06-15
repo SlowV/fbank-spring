@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Create</title>
+</head>
+<body>
+<form th:action="@{/person/add}" th:object="${person}" method="post">
+    <label>First Name: </label>
+    <input type="text" th:field="*{firstName}">
+    <br>
+
+    <label>Last Name: </label>
+    <input type="text" th:field="*{lastName}">
+    <br>
+
+    <label>Age: </label>
+    <input type="number" th:field="*{age}">
+    <br>
+
+    <label>Salary: </label>
+    <input type="number" th:field="*{salary}">
+    <br>
+
+    <label>Date of birth: </label>
+    <input type="date" th:field="*{dob}">
+    <br>
+
+    <label>First Name: </label>
+    <select th:field="*{status}">
+        <th:block th:each="status : ${statusType}">
+            <option th:value="${status.code}" th:text="${status.nameStr}"></option>
+        </th:block>
+    </select>
+    <br>
+
+    <input type="submit" value="Submit">
+    <input type="reset" value="Reset">
+</form>
+</body>
+</html>

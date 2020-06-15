@@ -96,12 +96,12 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.9.4" />
           <element id="library" level="project" name="Maven: com.fasterxml.woodstox:woodstox-core:5.0.3" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.4" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.4.0.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.4.0.RELEASE" />
           <element id="library" level="application" name="all" />
           <element id="library" level="application" name="bootstrap.bundle" />
           <element id="library" level="application" name="jquery" />
           <element id="library" level="application" name="jquery.easing" />
+          <element id="library" level="project" name="Maven: org.thymeleaf.extras:thymeleaf-extras-java8time:3.0.1.RELEASE" />
+          <element id="library" level="application" name="bootstrap" />
         </element>
       </element>
     </root>

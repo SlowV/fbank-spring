@@ -1,4 +1,4 @@
-package com.fintech.controller;
+package com.fintech.web.controller;
 
 import com.fintech.domain.Account;
 import com.fintech.service.AccountService;

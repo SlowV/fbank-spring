@@ -7,52 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cfde7c4-f32c-4fbf-9c3e-43c71365cfad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/Fbank_spring_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Fbank_spring_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3d1f4f0b-d6b6-4b14-a881-2cabce04fe6c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3d1f4f0b-d6b6-4b14-a881-2cabce04fe6c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/config/JpaConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/config/JpaConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/config/WebMvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/config/WebMvcConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/controller/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/controller/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/Account$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/Account$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/Account$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/Account$Status.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/AccountInformation$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/AccountInformation$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/AccountInformation$Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/AccountInformation$Gender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/AccountInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/domain/AccountInformation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/i18n/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/i18n/messages.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/i18n/messages_vi.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/i18n/messages_vi.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/log/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/log/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/static/js/authentication.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/static/js/authentication.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/lib/spring-boot-2.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/lib/spring-boot-autoconfigure-2.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/views/fragment/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/views/fragment/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/controller/AuthController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/classes/com/fintech/endpoint/AccountEndpoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/lib/spring-boot-1.4.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Fbank_spring_war_exploded/WEB-INF/lib/spring-boot-autoconfigure-1.4.0.RELEASE.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/fintech/config/JpaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fintech/config/JpaConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/fintech/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fintech/config/WebMvcConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fintech/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fintech/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fintech/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fintech/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fintech/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fintech/domain/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fintech/domain/AccountInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fintech/domain/AccountInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/i18n/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/i18n/messages.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/i18n/messages_vi.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/i18n/messages_vi.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/authentication.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/authentication.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fintech/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fintech/web/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fintech/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fintech/web/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fintech/endpoint/AccountEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fintech/web/rest/AccountEndpoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/config/JpaConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fintech/config/JpaConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/config/WebMvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fintech/config/WebMvcConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fintech/controller/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fintech/controller/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/domain/Account$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fintech/domain/Account$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/domain/Account$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fintech/domain/Account$Status.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fintech/domain/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/domain/AccountInformation$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fintech/domain/AccountInformation$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/domain/AccountInformation$Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fintech/domain/AccountInformation$Gender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/domain/AccountInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fintech/domain/AccountInformation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/i18n/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/i18n/messages.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/i18n/messages_vi.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/i18n/messages_vi.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/authentication.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/js/authentication.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/fragment/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/fragment/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/controller/AuthController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fintech/endpoint/AccountEndpoint.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,11 +73,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Jsp File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -343,7 +318,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.125966" />
+          <option name="contentProportion" value="0.09293193" />
           <treeState>
             <expand>
               <path>
@@ -353,7 +328,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -389,6 +364,9 @@
       <workItem from="1591156555045" duration="3942000" />
       <workItem from="1591166781237" duration="5548000" />
       <workItem from="1591180692640" duration="2073000" />
+      <workItem from="1591342187025" duration="2991000" />
+      <workItem from="1591588664751" duration="1612000" />
+      <workItem from="1592204819236" duration="5421000" />
     </task>
     <servers />
   </component>
@@ -408,98 +386,122 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="341" y="246" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog/0.0.1366.738@0.0.1366.738" timestamp="1591158363981" />
-    <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591085936643">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="160" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592205595090">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1591085936643" />
-    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1591160055835">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="160" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1592205595090" />
+    <state x="572" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1592207276917">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1591160055835" />
+    <state x="572" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1592207276917" />
     <state x="315" y="61" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1591094972035">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="315" y="61" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.738@0.0.1366.738" timestamp="1591094972035" />
-    <state x="420" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590644503653">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="624" y="364" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592204982175">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="624" y="364" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.870@0.0.1600.870" timestamp="1592204982175" />
+    <state x="492" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592206670227">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="420" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1590644503653" />
+    <state x="492" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.870@0.0.1600.870" timestamp="1592206670227" />
     <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590638116300">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1590638116300" />
-    <state x="436" y="127" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1591182716923">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="511" y="150" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1592209363350">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="436" y="127" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.738@0.0.1366.738" timestamp="1591182716923" />
-    <state x="462" y="113" key="FileChooserDialogImpl" timestamp="1590638853945">
+    <state x="511" y="150" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1600.870@0.0.1600.870" timestamp="1592209363350" />
+    <state x="462" y="113" key="FileChooserDialogImpl" timestamp="1591590981717">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="462" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1590638853945" />
-    <state width="1130" height="353" key="GridCell.Tab.0.bottom" timestamp="1591182857971">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="462" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1591590981717" />
+    <state width="1385" height="431" key="GridCell.Tab.0.bottom" timestamp="1592210271364">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591182857971" />
-    <state width="1130" height="353" key="GridCell.Tab.0.center" timestamp="1591182857971">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1592210271364" />
+    <state width="1385" height="431" key="GridCell.Tab.0.center" timestamp="1592210271364">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591182857971" />
-    <state width="1130" height="353" key="GridCell.Tab.0.left" timestamp="1591182857970">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1592210271364" />
+    <state width="1385" height="431" key="GridCell.Tab.0.left" timestamp="1592210271364">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591182857970" />
-    <state width="1130" height="353" key="GridCell.Tab.0.right" timestamp="1591182857971">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1592210271364" />
+    <state width="1385" height="431" key="GridCell.Tab.0.right" timestamp="1592210271364">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591182857971" />
-    <state width="1130" height="353" key="GridCell.Tab.1.bottom" timestamp="1591182857972">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1592210271364" />
+    <state width="1385" height="431" key="GridCell.Tab.1.bottom" timestamp="1592210271238">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591182857972" />
-    <state width="1130" height="353" key="GridCell.Tab.1.center" timestamp="1591182857971">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1592210271238" />
+    <state width="1385" height="431" key="GridCell.Tab.1.center" timestamp="1592210271238">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1591182857971" />
-    <state width="1130" height="353" key="GridCell.Tab.1.left" timestamp="1591182857971">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1592210271238" />
+    <state width="1385" height="431" key="GridCell.Tab.1.left" timestamp="1592210271238">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1591182857971" />
-    <state width="1130" height="353" key="GridCell.Tab.1.right" timestamp="1591182857971">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1592210271238" />
+    <state width="1385" height="431" key="GridCell.Tab.1.right" timestamp="1592210271238">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1591182857971" />
-    <state width="1130" height="353" key="GridCell.Tab.2.bottom" timestamp="1591182857972">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1592210271238" />
+    <state width="1385" height="431" key="GridCell.Tab.2.bottom" timestamp="1592210271239">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591182857972" />
-    <state width="1130" height="353" key="GridCell.Tab.2.center" timestamp="1591182857972">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.2.bottom/0.0.1600.870@0.0.1600.870" timestamp="1592210271239" />
+    <state width="1385" height="431" key="GridCell.Tab.2.center" timestamp="1592210271239">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1591182857972" />
-    <state width="1130" height="353" key="GridCell.Tab.2.left" timestamp="1591182857972">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.2.center/0.0.1600.870@0.0.1600.870" timestamp="1592210271239" />
+    <state width="1385" height="431" key="GridCell.Tab.2.left" timestamp="1592210271238">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1591182857972" />
-    <state width="1130" height="353" key="GridCell.Tab.2.right" timestamp="1591182857972">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.2.left/0.0.1600.870@0.0.1600.870" timestamp="1592210271238" />
+    <state width="1385" height="431" key="GridCell.Tab.2.right" timestamp="1592210271239">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1591182857972" />
-    <state width="1130" height="353" key="GridCell.Tab.3.bottom" timestamp="1591087014033">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1385" height="431" key="GridCell.Tab.2.right/0.0.1600.870@0.0.1600.870" timestamp="1592210271239" />
+    <state width="1335" height="431" key="GridCell.Tab.3.bottom" timestamp="1592207024801">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.3.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591087014033" />
-    <state width="1130" height="353" key="GridCell.Tab.3.center" timestamp="1591087014033">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1335" height="431" key="GridCell.Tab.3.bottom/0.0.1600.870@0.0.1600.870" timestamp="1592207024801" />
+    <state width="1335" height="431" key="GridCell.Tab.3.center" timestamp="1592207024801">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.3.center/0.0.1366.738@0.0.1366.738" timestamp="1591087014033" />
-    <state width="1130" height="353" key="GridCell.Tab.3.left" timestamp="1591087014033">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1335" height="431" key="GridCell.Tab.3.center/0.0.1600.870@0.0.1600.870" timestamp="1592207024801" />
+    <state width="1335" height="431" key="GridCell.Tab.3.left" timestamp="1592207024800">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.3.left/0.0.1366.738@0.0.1366.738" timestamp="1591087014033" />
-    <state width="1130" height="353" key="GridCell.Tab.3.right" timestamp="1591087014033">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1335" height="431" key="GridCell.Tab.3.left/0.0.1600.870@0.0.1600.870" timestamp="1592207024800" />
+    <state width="1335" height="431" key="GridCell.Tab.3.right" timestamp="1592207024801">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1130" height="353" key="GridCell.Tab.3.right/0.0.1366.738@0.0.1366.738" timestamp="1591087014033" />
+    <state width="1335" height="431" key="GridCell.Tab.3.right/0.0.1600.870@0.0.1600.870" timestamp="1592207024801" />
     <state x="213" y="27" key="Maven.ArtifactSearchDialog" timestamp="1591182357456">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -508,18 +510,19 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="297" y="37" key="Registry/0.0.1366.738@0.0.1366.738" timestamp="1591085626723" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1591182719358">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="218" y="0" key="SettingsEditor" timestamp="1592209376576">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1591182719358" />
+    <state x="218" y="0" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1592209376576" />
     <state x="392" y="19" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1590734848977">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="392" y="19" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1590734848977" />
-    <state x="65" y="73" key="new project wizard" timestamp="1590735991128">
+    <state x="65" y="73" key="new project wizard" timestamp="1591591125097">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="65" y="73" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1590735991128" />
+    <state x="65" y="73" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1591591125097" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1591085577192">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

@@ -1,4 +1,4 @@
-package com.fintech.endpoint;
+package com.fintech.web.rest;
 
 import com.fintech.domain.Account;
 import com.fintech.domain.AccountInformation;
